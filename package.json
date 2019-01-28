@@ -1,0 +1,27 @@
+{
+  "name": "bookitframework",
+  "version": "1.0.0",
+  "description": "This is for BookIT framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "protractor conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baiazbekova/BookIT.git"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Aigerim Baiazbekova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baiazbekova/BookIT/issues"
+  },
+  "homepage": "https://github.com/baiazbekova/BookIT#readme",
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor": "^5.4.2",
+    "protractor-beautiful-reporter": "^1.2.7"
+  }
+}
